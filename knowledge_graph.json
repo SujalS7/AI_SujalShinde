@@ -1,0 +1,31 @@
+{
+    "Data Structures": {
+        "definition": "Ways to store and organize data efficiently.",
+        "related": [
+            "Arrays",
+            "Linked List",
+            "Trees"
+        ]
+    },
+    "Algorithms": {
+        "definition": "Step-by-step procedures to solve problems.",
+        "related": [
+            "Sorting",
+            "Searching"
+        ]
+    },
+    "Trees": {
+        "definition": "A hierarchical data structure with nodes.",
+        "related": [
+            "Binary Tree",
+            "Graphs"
+        ]
+    },
+    "Graphs": {
+        "definition": "A collection of nodes connected by edges.",
+        "related": [
+            "Trees",
+            "Graph Traversal"
+        ]
+    }
+}
